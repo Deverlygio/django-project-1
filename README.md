@@ -1,7 +1,10 @@
 # AgriPet Livestock & Pet Store System
 
 A comprehensive Django web application for managing livestock and pet stores with inventory management, sales processing, attendance tracking, and more.
+Agripet Inventory Management System
+Developed by: DEVERLY GIO
 
+Copyright © 2026 All Rights Reserved.
 ## Features
 
 ### 🔐 Authentication
